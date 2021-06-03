@@ -1,0 +1,216 @@
+2021-06-02T13:34:10.244Z [debug] createSandbox
+2021-06-02T13:34:10.246Z [info] Application started in worker 1
+2021-06-02T13:34:10.248Z [info] Listen port 8000 in worker 1
+2021-06-02T13:35:00.992Z [log] listener /api/v1/users
+2021-06-02T13:36:15.320Z [log] listener /api/v1/users
+2021-06-02T13:37:58.955Z [debug] createSandbox
+2021-06-02T13:37:58.957Z [info] Application started in worker 1
+2021-06-02T13:37:58.959Z [info] Listen port 8000 in worker 1
+2021-06-02T13:38:05.220Z [error] ReferenceError: Channel is not defined;  Server.listener (\lib\server.js:80:21);  Server.emit (events.js:315:20);  parserOnIncoming (_http_server.js:874:12);  HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+2021-06-02T13:38:56.911Z [debug] createSandbox
+2021-06-02T13:38:56.912Z [info] Application started in worker 1
+2021-06-02T13:38:56.915Z [info] Listen port 8000 in worker 1
+2021-06-02T13:38:59.312Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T13:40:39.787Z [debug] createSandbox
+2021-06-02T13:40:39.789Z [info] Application started in worker 1
+2021-06-02T13:40:39.791Z [info] Listen port 8000 in worker 1
+2021-06-02T13:40:43.219Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T13:41:16.422Z [debug] createSandbox
+2021-06-02T13:41:16.424Z [info] Application started in worker 1
+2021-06-02T13:41:16.427Z [info] Listen port 8000 in worker 1
+2021-06-02T13:41:23.127Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T13:54:58.926Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T13:55:04.528Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T13:57:00.083Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:00:01.548Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:00:06.313Z [debug] createSandbox
+2021-06-02T14:00:06.315Z [info] Application started in worker 1
+2021-06-02T14:00:06.318Z [info] Listen port 8000 in worker 1
+2021-06-02T14:00:15.402Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:00:45.781Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:01:57.393Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:02:52.951Z [debug] createSandbox
+2021-06-02T14:02:52.953Z [info] Application started in worker 1
+2021-06-02T14:02:52.955Z [info] Listen port 8000 in worker 1
+2021-06-02T14:05:01.731Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:06:34.635Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:09:26.672Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:09:39.359Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:10:23.284Z [debug] createSandbox
+2021-06-02T14:10:23.286Z [info] Application started in worker 1
+2021-06-02T14:10:23.290Z [info] Listen port 8000 in worker 1
+2021-06-02T14:10:26.515Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:10:41.040Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:11:13.512Z [debug] createSandbox
+2021-06-02T14:11:13.514Z [info] Application started in worker 1
+2021-06-02T14:11:13.516Z [info] Listen port 8000 in worker 1
+2021-06-02T14:11:31.284Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:11:34.629Z [debug] createSandbox
+2021-06-02T14:11:34.631Z [info] Application started in worker 1
+2021-06-02T14:11:34.633Z [info] Listen port 8000 in worker 1
+2021-06-02T14:11:36.972Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:13:13.419Z [debug] createSandbox
+2021-06-02T14:13:13.421Z [info] Application started in worker 1
+2021-06-02T14:13:13.424Z [info] Listen port 8000 in worker 1
+2021-06-02T14:13:20.017Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:13:28.892Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:14:05.597Z [debug] createSandbox
+2021-06-02T14:14:05.599Z [info] Application started in worker 1
+2021-06-02T14:14:05.602Z [info] Listen port 8000 in worker 1
+2021-06-02T14:14:08.737Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:14:37.056Z [debug] createSandbox
+2021-06-02T14:14:37.058Z [info] Application started in worker 1
+2021-06-02T14:14:37.060Z [info] Listen port 8000 in worker 1
+2021-06-02T14:14:43.271Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:14:54.041Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:15:07.279Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:17:48.055Z [debug] createSandbox
+2021-06-02T14:17:48.057Z [info] Application started in worker 1
+2021-06-02T14:17:48.060Z [info] Listen port 8000 in worker 1
+2021-06-02T14:24:02.273Z [debug] createSandbox
+2021-06-02T14:24:02.278Z [info] Listen port 8000 in worker 1
+2021-06-02T14:24:02.282Z [info] Application started in worker 1
+2021-06-02T14:24:15.197Z [debug] Reload: /static\index.html
+2021-06-02T14:24:23.563Z [debug] Reload: /static\index.html
+2021-06-02T14:24:53.905Z [debug] createSandbox
+2021-06-02T14:24:53.910Z [info] Listen port 8000 in worker 1
+2021-06-02T14:24:53.915Z [info] Application started in worker 1
+2021-06-02T14:25:30.703Z [debug] Reload: /static\images\moon.jpg
+2021-06-02T14:27:39.513Z [debug] Deleted: /static\images\gratis-png-craneo-arte-craneo.png.crdownload
+2021-06-02T14:27:39.513Z [debug] Reload: /static\images\gratis-png-craneo-arte-craneo.png
+2021-06-02T14:27:44.175Z [debug] Deleted: /static\images\gratis-png-craneo-arte-craneo.png
+2021-06-02T14:27:44.175Z [debug] Reload: /static\images\test.png
+2021-06-02T14:28:56.879Z [debug] createSandbox
+2021-06-02T14:28:56.883Z [info] Listen port 8000 in worker 1
+2021-06-02T14:28:56.890Z [info] Application started in worker 1
+2021-06-02T14:31:15.982Z [debug] createSandbox
+2021-06-02T14:31:15.985Z [info] Listen port 8000 in worker 1
+2021-06-02T14:31:15.992Z [info] Application started in worker 1
+2021-06-02T14:32:41.121Z [debug] createSandbox
+2021-06-02T14:32:41.125Z [info] Listen port 8000 in worker 1
+2021-06-02T14:32:41.133Z [info] Application started in worker 1
+2021-06-02T14:34:59.657Z [debug] createSandbox
+2021-06-02T14:34:59.661Z [info] Listen port 8000 in worker 1
+2021-06-02T14:34:59.670Z [info] Application started in worker 1
+2021-06-02T14:35:45.020Z [debug] createSandbox
+2021-06-02T14:35:45.023Z [info] Listen port 8000 in worker 1
+2021-06-02T14:35:45.030Z [info] Application started in worker 1
+2021-06-02T14:36:42.050Z [debug] createSandbox
+2021-06-02T14:36:42.053Z [info] Listen port 8000 in worker 1
+2021-06-02T14:36:42.060Z [info] Application started in worker 1
+2021-06-02T14:38:24.592Z [debug] createSandbox
+2021-06-02T14:38:24.597Z [info] Listen port 8000 in worker 1
+2021-06-02T14:38:24.607Z [info] Application started in worker 1
+2021-06-02T14:42:18.090Z [debug] createSandbox
+2021-06-02T14:42:18.095Z [info] Listen port 8000 in worker 1
+2021-06-02T14:42:18.107Z [info] Application started in worker 1
+2021-06-02T14:43:01.365Z [debug] createSandbox
+2021-06-02T14:43:01.369Z [info] Listen port 8000 in worker 1
+2021-06-02T14:43:01.376Z [info] Application started in worker 1
+2021-06-02T14:43:37.963Z [debug] createSandbox
+2021-06-02T14:43:37.966Z [info] Listen port 8000 in worker 1
+2021-06-02T14:43:37.973Z [info] Application started in worker 1
+2021-06-02T14:44:23.098Z [debug] createSandbox
+2021-06-02T14:44:23.102Z [info] Listen port 8000 in worker 1
+2021-06-02T14:44:23.112Z [info] Application started in worker 1
+2021-06-02T14:44:48.212Z [debug] createSandbox
+2021-06-02T14:44:48.216Z [info] Listen port 8000 in worker 1
+2021-06-02T14:44:48.222Z [info] Application started in worker 1
+2021-06-02T14:45:31.538Z [debug] createSandbox
+2021-06-02T14:45:31.543Z [info] Listen port 8000 in worker 1
+2021-06-02T14:45:31.649Z [info] Application started in worker 1
+2021-06-02T14:47:14.585Z [debug] createSandbox
+2021-06-02T14:47:14.589Z [info] Listen port 8000 in worker 1
+2021-06-02T14:47:14.595Z [info] Application started in worker 1
+2021-06-02T14:51:38.392Z [debug] createSandbox
+2021-06-02T14:51:38.396Z [info] Listen port 8000 in worker 1
+2021-06-02T14:51:38.404Z [info] Application started in worker 1
+2021-06-02T14:54:22.544Z [debug] createSandbox
+2021-06-02T14:54:22.550Z [info] Listen port 8000 in worker 1
+2021-06-02T14:54:22.559Z [info] Application started in worker 1
+2021-06-02T14:55:18.572Z [debug] createSandbox
+2021-06-02T14:55:18.577Z [info] Listen port 8000 in worker 1
+2021-06-02T14:55:18.584Z [info] Application started in worker 1
+2021-06-02T14:57:02.587Z [debug] createSandbox
+2021-06-02T14:57:02.591Z [info] Listen port 8000 in worker 1
+2021-06-02T14:57:02.597Z [info] Application started in worker 1
+2021-06-02T15:06:24.348Z [debug] createSandbox
+2021-06-02T15:06:24.354Z [info] Listen port 8000 in worker 1
+2021-06-02T15:06:24.363Z [info] Application started in worker 1
+2021-06-02T15:07:35.699Z [debug] createSandbox
+2021-06-02T15:07:35.702Z [info] Listen port 8000 in worker 1
+2021-06-02T15:07:35.711Z [info] Application started in worker 1
+2021-06-02T15:09:04.120Z [debug] createSandbox
+2021-06-02T15:09:04.126Z [info] Listen port 8000 in worker 1
+2021-06-02T15:09:04.134Z [info] Application started in worker 1
+2021-06-02T15:09:18.937Z [debug] createSandbox
+2021-06-02T15:09:18.941Z [info] Listen port 8000 in worker 1
+2021-06-02T15:09:18.957Z [error] ReferenceError: crud is not defined;  \application\api\example\index.js:1:12;  new Procedure (\lib\procedure.js:11:17);  Interfaces.change (\lib\interfaces.js:75:18);  async Interfaces.load (\lib\cache.js:19:14);  async Interfaces.load (\lib\cache.js:18:33)
+2021-06-02T15:09:18.961Z [info] Application started in worker 1
+2021-06-02T15:09:19.971Z [debug] Reload: /api\example\index.js
+2021-06-02T15:09:19.973Z [error] ReferenceError: crud is not defined;  \application\api\example\index.js:1:12;  new Procedure (\lib\procedure.js:11:17);  Interfaces.change (\lib\interfaces.js:75:18)
+2021-06-02T15:09:35.719Z [debug] Reload: /api\example\index.js
+2021-06-02T15:09:35.720Z [error] \application\api\example\index.js:2;;;;SyntaxError: Unexpected end of input;  new Script (vm.js:100:7);  new Script (\lib\utils\vm.js:41:19);  Interfaces.createScript (\lib\interfaces.js:31:27);  async Interfaces.change (\lib\interfaces.js:73:20)
+2021-06-02T15:09:42.784Z [debug] Reload: /api\example.2\index.js
+2021-06-02T15:09:42.785Z [error] \application\api\example.2\index.js:35;;;;SyntaxError: Unexpected end of input;  new Script (vm.js:100:7);  new Script (\lib\utils\vm.js:41:19);  Interfaces.createScript (\lib\interfaces.js:31:27);  async Interfaces.change (\lib\interfaces.js:73:20)
+2021-06-02T15:09:48.920Z [debug] createSandbox
+2021-06-02T15:09:48.925Z [info] Listen port 8000 in worker 1
+2021-06-02T15:09:48.939Z [error] \application\api\example\index.js:2;;;;SyntaxError: Unexpected end of input;  new Script (vm.js:100:7);  new Script (\lib\utils\vm.js:41:19);  Interfaces.createScript (\lib\interfaces.js:31:27);  async Interfaces.change (\lib\interfaces.js:73:20);  async Interfaces.load (\lib\cache.js:19:14);  async Interfaces.load (\lib\cache.js:18:33)
+2021-06-02T15:09:48.940Z [error] \application\api\example.2\index.js:35;;;;SyntaxError: Unexpected end of input;  new Script (vm.js:100:7);  new Script (\lib\utils\vm.js:41:19);  Interfaces.createScript (\lib\interfaces.js:31:27);  async Interfaces.change (\lib\interfaces.js:73:20);  async Interfaces.load (\lib\cache.js:19:14);  async Interfaces.load (\lib\cache.js:18:33)
+2021-06-02T15:09:48.941Z [info] Application started in worker 1
+2021-06-02T15:11:34.570Z [debug] Deleted: /api\example.2\index.js
+2021-06-02T15:11:37.897Z [debug] Deleted: /api\example\index.js
+2021-06-02T15:11:43.349Z [debug] createSandbox
+2021-06-02T15:11:43.353Z [info] Listen port 8000 in worker 1
+2021-06-02T15:11:43.366Z [info] Application started in worker 1
+2021-06-02T15:13:01.531Z [debug] createSandbox
+2021-06-02T15:13:01.537Z [info] Listen port 8000 in worker 1
+2021-06-02T15:13:01.552Z [info] Application started in worker 1
+2021-06-02T15:14:23.228Z [debug] createSandbox
+2021-06-02T15:14:23.232Z [info] Listen port 8000 in worker 1
+2021-06-02T15:14:23.249Z [info] Application started in worker 1
+2021-06-02T15:15:48.521Z [debug] Deleted: /api\example
+2021-06-02T15:15:59.793Z [debug] createSandbox
+2021-06-02T15:15:59.797Z [info] Listen port 8000 in worker 1
+2021-06-02T15:15:59.810Z [info] Application started in worker 1
+2021-06-02T15:16:23.893Z [debug] Reload: /api\example.1\creat.js
+2021-06-02T15:19:34.802Z [debug] Reload: /api\example.1\creat.js
+2021-06-02T15:22:53.187Z [debug] Reload: /api\example.1\creat.js
+2021-06-02T15:22:56.681Z [debug] Reload: /api\example.1\creat.js
+2021-06-02T15:23:01.322Z [debug] createSandbox
+2021-06-02T15:23:01.326Z [info] Listen port 8000 in worker 1
+2021-06-02T15:23:01.339Z [info] Application started in worker 1
+2021-06-02T15:23:22.355Z [debug] createSandbox
+2021-06-02T15:23:22.359Z [info] Listen port 8000 in worker 1
+2021-06-02T15:23:22.372Z [info] Application started in worker 1
+2021-06-02T15:23:55.316Z [debug] createSandbox
+2021-06-02T15:23:55.320Z [info] Listen port 8000 in worker 1
+2021-06-02T15:23:55.332Z [info] Application started in worker 1
+2021-06-02T15:24:43.742Z [debug] Reload: /api\example.1\creat.js
+2021-06-02T15:25:01.600Z [debug] createSandbox
+2021-06-02T15:25:01.605Z [info] Listen port 8000 in worker 1
+2021-06-02T15:25:01.621Z [info] Application started in worker 1
+2021-06-02T15:25:02.621Z [debug] Reload: /static\README.md
+2021-06-02T15:25:24.259Z [debug] Reload: /api\example.1\creat.js
+2021-06-02T15:26:00.413Z [debug] Reload: /api\example.2\creat.js
+2021-06-02T15:26:46.737Z [debug] Reload: /api\example.2\creat.js
+2021-06-02T15:26:49.490Z [debug] createSandbox
+2021-06-02T15:26:49.494Z [info] Listen port 8000 in worker 1
+2021-06-02T15:26:49.511Z [info] Application started in worker 1
+2021-06-02T15:33:22.918Z [debug] createSandbox
+2021-06-02T15:33:22.924Z [info] Listen port 8000 in worker 1
+2021-06-02T15:33:22.938Z [info] Application started in worker 1
+2021-06-02T15:34:33.142Z [debug] createSandbox
+2021-06-02T15:34:33.148Z [info] Listen port 8000 in worker 1
+2021-06-02T15:34:33.162Z [info] Application started in worker 1
+2021-06-02T15:34:49.455Z [info] Listen port 8000 in worker 1
+2021-06-02T15:34:49.472Z [info] Application started in worker 1
+2021-06-02T15:35:24.642Z [info] Listen port 8000 in worker 1
+2021-06-02T15:35:24.669Z [debug] Start example plugin
+2021-06-02T15:35:24.672Z [debug] { set: { key: 'keyName', val: 100 } }
+2021-06-02T15:35:24.672Z [debug] { get: 'keyName', return: 100 }
+2021-06-02T15:35:24.672Z [debug] { res: 100, cache: undefined }
+2021-06-02T15:35:24.672Z [debug] Connect to pg
+2021-06-02T15:35:24.673Z [log] [domain/start] example
+2021-06-02T15:35:24.673Z [info] Application started in worker 1
+2021-06-02T15:35:25.667Z [debug] Reload: /lib\utils.js

@@ -1,0 +1,198 @@
+2021-06-02T13:34:10.243Z [debug] createSandbox
+2021-06-02T13:34:10.245Z [info] Application started in worker 2
+2021-06-02T13:34:10.247Z [info] Listen port 8001 in worker 2
+2021-06-02T13:37:58.951Z [debug] createSandbox
+2021-06-02T13:37:58.953Z [info] Application started in worker 2
+2021-06-02T13:37:58.956Z [info] Listen port 8001 in worker 2
+2021-06-02T13:38:56.910Z [debug] createSandbox
+2021-06-02T13:38:56.912Z [info] Application started in worker 2
+2021-06-02T13:38:56.914Z [info] Listen port 8001 in worker 2
+2021-06-02T13:40:39.782Z [debug] createSandbox
+2021-06-02T13:40:39.784Z [info] Application started in worker 2
+2021-06-02T13:40:39.787Z [info] Listen port 8001 in worker 2
+2021-06-02T13:41:16.428Z [debug] createSandbox
+2021-06-02T13:41:16.430Z [info] Application started in worker 2
+2021-06-02T13:41:16.432Z [info] Listen port 8001 in worker 2
+2021-06-02T13:55:05.042Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:00:06.313Z [debug] createSandbox
+2021-06-02T14:00:06.315Z [info] Application started in worker 2
+2021-06-02T14:00:06.319Z [info] Listen port 8001 in worker 2
+2021-06-02T14:00:15.924Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:00:15.926Z [error] TypeError: application.getStaticFile is not a function;  Channel.static (\lib\channel.js:135:30);  Server.listener (\lib\server.js:111:18);  processTicksAndRejections (internal/process/task_queues.js:93:5)
+2021-06-02T14:00:20.926Z [error] 127.0.0.1	GET	/	504	Gateway Timeout
+2021-06-02T14:00:46.291Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:00:46.291Z [error] TypeError: application.getStaticFile is not a function;  Channel.static (\lib\channel.js:135:30);  Server.listener (\lib\server.js:111:18);  processTicksAndRejections (internal/process/task_queues.js:93:5)
+2021-06-02T14:00:51.301Z [error] 127.0.0.1	GET	/	504	Gateway Timeout
+2021-06-02T14:01:57.896Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:01:57.897Z [error] TypeError: application.getStaticFile is not a function;  Channel.static (\lib\channel.js:135:30);  Server.listener (\lib\server.js:111:18);  processTicksAndRejections (internal/process/task_queues.js:93:5)
+2021-06-02T14:02:02.902Z [error] 127.0.0.1	GET	/	504	Gateway Timeout
+2021-06-02T14:02:52.947Z [debug] createSandbox
+2021-06-02T14:02:52.949Z [info] Application started in worker 2
+2021-06-02T14:02:52.952Z [info] Listen port 8001 in worker 2
+2021-06-02T14:05:02.254Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:05:02.256Z [error] TypeError: Cannot read property 'get' of null;  Application.getStaticFile (\lib\application.js:125:24);  Channel.static (\lib\channel.js:135:30);  Server.listener (\lib\server.js:111:18);  processTicksAndRejections (internal/process/task_queues.js:93:5)
+2021-06-02T14:05:07.257Z [error] 127.0.0.1	GET	/	504	Gateway Timeout
+2021-06-02T14:06:35.139Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:06:35.139Z [error] TypeError: Cannot read property 'get' of null;  Application.getStaticFile (\lib\application.js:125:24);  Channel.static (\lib\channel.js:135:30);  Server.listener (\lib\server.js:111:18);  processTicksAndRejections (internal/process/task_queues.js:93:5)
+2021-06-02T14:06:40.143Z [error] 127.0.0.1	GET	/	504	Gateway Timeout
+2021-06-02T14:09:27.190Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:09:27.190Z [error] TypeError: Cannot read property 'get' of null;  Application.getStaticFile (\lib\application.js:125:24);  Channel.static (\lib\channel.js:135:30);  Server.listener (\lib\server.js:111:18);  processTicksAndRejections (internal/process/task_queues.js:93:5)
+2021-06-02T14:09:32.202Z [error] 127.0.0.1	GET	/	504	Gateway Timeout
+2021-06-02T14:09:39.876Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:09:39.876Z [error] TypeError: Cannot read property 'get' of null;  Application.getStaticFile (\lib\application.js:125:24);  Channel.static (\lib\channel.js:135:30);  Server.listener (\lib\server.js:111:18);  processTicksAndRejections (internal/process/task_queues.js:93:5)
+2021-06-02T14:09:44.878Z [error] 127.0.0.1	GET	/	504	Gateway Timeout
+2021-06-02T14:10:23.284Z [debug] createSandbox
+2021-06-02T14:10:23.287Z [info] Application started in worker 2
+2021-06-02T14:10:23.291Z [info] Listen port 8001 in worker 2
+2021-06-02T14:10:27.033Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:10:27.035Z [error] TypeError: Cannot read property 'get' of null;  Application.getStaticFile (\lib\application.js:125:24);  Channel.static (\lib\channel.js:135:30);  Server.listener (\lib\server.js:111:18);  processTicksAndRejections (internal/process/task_queues.js:93:5)
+2021-06-02T14:10:32.047Z [error] 127.0.0.1	GET	/	504	Gateway Timeout
+2021-06-02T14:11:13.512Z [debug] createSandbox
+2021-06-02T14:11:13.513Z [info] Application started in worker 2
+2021-06-02T14:11:13.516Z [info] Listen port 8001 in worker 2
+2021-06-02T14:11:34.635Z [debug] createSandbox
+2021-06-02T14:11:34.636Z [info] Application started in worker 2
+2021-06-02T14:11:34.638Z [info] Listen port 8001 in worker 2
+2021-06-02T14:11:37.496Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:11:37.497Z [error] TypeError: Cannot read property 'get' of null;  Application.getStaticFile (\lib\application.js:125:24);  Channel.static (\lib\channel.js:135:30);  Server.listener (\lib\server.js:111:18);  processTicksAndRejections (internal/process/task_queues.js:93:5)
+2021-06-02T14:11:42.505Z [error] 127.0.0.1	GET	/	504	Gateway Timeout
+2021-06-02T14:13:13.416Z [debug] createSandbox
+2021-06-02T14:13:13.417Z [info] Application started in worker 2
+2021-06-02T14:13:13.420Z [info] Listen port 8001 in worker 2
+2021-06-02T14:13:20.539Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:13:29.409Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:14:05.591Z [debug] createSandbox
+2021-06-02T14:14:05.592Z [info] Application started in worker 2
+2021-06-02T14:14:05.594Z [info] Listen port 8001 in worker 2
+2021-06-02T14:14:09.260Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:14:37.051Z [debug] createSandbox
+2021-06-02T14:14:37.053Z [info] Application started in worker 2
+2021-06-02T14:14:37.056Z [info] Listen port 8001 in worker 2
+2021-06-02T14:14:43.788Z [debug] { client: Client { events: { close: [] }, callId: 0 } }
+2021-06-02T14:14:43.790Z [warn] { url: '/' }
+2021-06-02T14:17:48.052Z [debug] createSandbox
+2021-06-02T14:17:48.055Z [info] Application started in worker 2
+2021-06-02T14:17:48.058Z [info] Listen port 8001 in worker 2
+2021-06-02T14:24:02.165Z [debug] createSandbox
+2021-06-02T14:24:02.169Z [info] Listen port 8001 in worker 2
+2021-06-02T14:24:02.273Z [info] Application started in worker 2
+2021-06-02T14:24:53.906Z [debug] createSandbox
+2021-06-02T14:24:53.910Z [info] Listen port 8001 in worker 2
+2021-06-02T14:24:53.915Z [info] Application started in worker 2
+2021-06-02T14:28:56.758Z [debug] createSandbox
+2021-06-02T14:28:56.762Z [info] Listen port 8001 in worker 2
+2021-06-02T14:28:56.881Z [info] Application started in worker 2
+2021-06-02T14:31:15.975Z [debug] createSandbox
+2021-06-02T14:31:15.979Z [info] Listen port 8001 in worker 2
+2021-06-02T14:31:15.987Z [info] Application started in worker 2
+2021-06-02T14:32:41.119Z [debug] createSandbox
+2021-06-02T14:32:41.124Z [info] Listen port 8001 in worker 2
+2021-06-02T14:32:41.132Z [info] Application started in worker 2
+2021-06-02T14:34:59.657Z [debug] createSandbox
+2021-06-02T14:34:59.662Z [info] Listen port 8001 in worker 2
+2021-06-02T14:34:59.670Z [info] Application started in worker 2
+2021-06-02T14:35:45.016Z [debug] createSandbox
+2021-06-02T14:35:45.020Z [info] Listen port 8001 in worker 2
+2021-06-02T14:35:45.028Z [info] Application started in worker 2
+2021-06-02T14:36:42.046Z [debug] createSandbox
+2021-06-02T14:36:42.049Z [info] Listen port 8001 in worker 2
+2021-06-02T14:36:42.057Z [info] Application started in worker 2
+2021-06-02T14:38:24.593Z [debug] createSandbox
+2021-06-02T14:38:24.598Z [info] Listen port 8001 in worker 2
+2021-06-02T14:38:24.607Z [info] Application started in worker 2
+2021-06-02T14:42:17.972Z [debug] createSandbox
+2021-06-02T14:42:17.976Z [info] Listen port 8001 in worker 2
+2021-06-02T14:42:18.086Z [info] Application started in worker 2
+2021-06-02T14:43:01.362Z [debug] createSandbox
+2021-06-02T14:43:01.365Z [info] Listen port 8001 in worker 2
+2021-06-02T14:43:01.373Z [info] Application started in worker 2
+2021-06-02T14:43:37.962Z [debug] createSandbox
+2021-06-02T14:43:37.967Z [info] Listen port 8001 in worker 2
+2021-06-02T14:43:37.975Z [info] Application started in worker 2
+2021-06-02T14:44:23.098Z [debug] createSandbox
+2021-06-02T14:44:23.102Z [info] Listen port 8001 in worker 2
+2021-06-02T14:44:23.110Z [info] Application started in worker 2
+2021-06-02T14:44:48.072Z [debug] createSandbox
+2021-06-02T14:44:48.076Z [info] Listen port 8001 in worker 2
+2021-06-02T14:44:48.208Z [info] Application started in worker 2
+2021-06-02T14:45:31.535Z [debug] createSandbox
+2021-06-02T14:45:31.539Z [info] Listen port 8001 in worker 2
+2021-06-02T14:45:31.647Z [info] Application started in worker 2
+2021-06-02T14:47:14.579Z [debug] createSandbox
+2021-06-02T14:47:14.583Z [info] Listen port 8001 in worker 2
+2021-06-02T14:47:14.590Z [info] Application started in worker 2
+2021-06-02T14:51:38.398Z [debug] createSandbox
+2021-06-02T14:51:38.402Z [info] Listen port 8001 in worker 2
+2021-06-02T14:51:38.409Z [info] Application started in worker 2
+2021-06-02T14:54:22.551Z [debug] createSandbox
+2021-06-02T14:54:22.555Z [info] Listen port 8001 in worker 2
+2021-06-02T14:54:22.564Z [info] Application started in worker 2
+2021-06-02T14:55:18.572Z [debug] createSandbox
+2021-06-02T14:55:18.577Z [info] Listen port 8001 in worker 2
+2021-06-02T14:55:18.584Z [info] Application started in worker 2
+2021-06-02T14:57:02.567Z [debug] createSandbox
+2021-06-02T14:57:02.572Z [info] Listen port 8001 in worker 2
+2021-06-02T14:57:02.581Z [info] Application started in worker 2
+2021-06-02T15:06:24.348Z [debug] createSandbox
+2021-06-02T15:06:24.352Z [info] Listen port 8001 in worker 2
+2021-06-02T15:06:24.362Z [info] Application started in worker 2
+2021-06-02T15:07:35.696Z [debug] createSandbox
+2021-06-02T15:07:35.700Z [info] Listen port 8001 in worker 2
+2021-06-02T15:07:35.708Z [info] Application started in worker 2
+2021-06-02T15:09:04.120Z [debug] createSandbox
+2021-06-02T15:09:04.125Z [info] Listen port 8001 in worker 2
+2021-06-02T15:09:04.134Z [info] Application started in worker 2
+2021-06-02T15:09:18.934Z [debug] createSandbox
+2021-06-02T15:09:18.939Z [info] Listen port 8001 in worker 2
+2021-06-02T15:09:18.960Z [error] ReferenceError: crud is not defined;  \application\api\example\index.js:1:12;  new Procedure (\lib\procedure.js:11:17);  Interfaces.change (\lib\interfaces.js:75:18);  async Interfaces.load (\lib\cache.js:19:14);  async Interfaces.load (\lib\cache.js:18:33)
+2021-06-02T15:09:18.963Z [info] Application started in worker 2
+2021-06-02T15:09:19.973Z [error] ReferenceError: crud is not defined;  \application\api\example\index.js:1:12;  new Procedure (\lib\procedure.js:11:17);  Interfaces.change (\lib\interfaces.js:75:18)
+2021-06-02T15:09:35.720Z [error] \application\api\example\index.js:2;;;;SyntaxError: Unexpected end of input;  new Script (vm.js:100:7);  new Script (\lib\utils\vm.js:41:19);  Interfaces.createScript (\lib\interfaces.js:31:27);  async Interfaces.change (\lib\interfaces.js:73:20)
+2021-06-02T15:09:42.785Z [error] \application\api\example.2\index.js:35;;;;SyntaxError: Unexpected end of input;  new Script (vm.js:100:7);  new Script (\lib\utils\vm.js:41:19);  Interfaces.createScript (\lib\interfaces.js:31:27);  async Interfaces.change (\lib\interfaces.js:73:20)
+2021-06-02T15:09:48.819Z [debug] createSandbox
+2021-06-02T15:09:48.824Z [info] Listen port 8001 in worker 2
+2021-06-02T15:09:48.930Z [error] \application\api\example\index.js:2;;;;SyntaxError: Unexpected end of input;  new Script (vm.js:100:7);  new Script (\lib\utils\vm.js:41:19);  Interfaces.createScript (\lib\interfaces.js:31:27);  async Interfaces.change (\lib\interfaces.js:73:20);  async Interfaces.load (\lib\cache.js:19:14);  async Interfaces.load (\lib\cache.js:18:33)
+2021-06-02T15:09:48.931Z [error] \application\api\example.2\index.js:35;;;;SyntaxError: Unexpected end of input;  new Script (vm.js:100:7);  new Script (\lib\utils\vm.js:41:19);  Interfaces.createScript (\lib\interfaces.js:31:27);  async Interfaces.change (\lib\interfaces.js:73:20);  async Interfaces.load (\lib\cache.js:19:14);  async Interfaces.load (\lib\cache.js:18:33)
+2021-06-02T15:09:48.932Z [info] Application started in worker 2
+2021-06-02T15:11:43.350Z [debug] createSandbox
+2021-06-02T15:11:43.355Z [info] Listen port 8001 in worker 2
+2021-06-02T15:11:43.367Z [info] Application started in worker 2
+2021-06-02T15:13:01.531Z [debug] createSandbox
+2021-06-02T15:13:01.537Z [info] Listen port 8001 in worker 2
+2021-06-02T15:13:01.552Z [info] Application started in worker 2
+2021-06-02T15:14:23.225Z [debug] createSandbox
+2021-06-02T15:14:23.231Z [info] Listen port 8001 in worker 2
+2021-06-02T15:14:23.248Z [info] Application started in worker 2
+2021-06-02T15:15:59.788Z [debug] createSandbox
+2021-06-02T15:15:59.793Z [info] Listen port 8001 in worker 2
+2021-06-02T15:15:59.805Z [info] Application started in worker 2
+2021-06-02T15:23:01.322Z [debug] createSandbox
+2021-06-02T15:23:01.327Z [info] Listen port 8001 in worker 2
+2021-06-02T15:23:01.340Z [info] Application started in worker 2
+2021-06-02T15:23:22.355Z [debug] createSandbox
+2021-06-02T15:23:22.359Z [info] Listen port 8001 in worker 2
+2021-06-02T15:23:22.372Z [info] Application started in worker 2
+2021-06-02T15:23:55.315Z [debug] createSandbox
+2021-06-02T15:23:55.319Z [info] Listen port 8001 in worker 2
+2021-06-02T15:23:55.331Z [info] Application started in worker 2
+2021-06-02T15:25:01.596Z [debug] createSandbox
+2021-06-02T15:25:01.600Z [info] Listen port 8001 in worker 2
+2021-06-02T15:25:01.616Z [info] Application started in worker 2
+2021-06-02T15:26:49.491Z [debug] createSandbox
+2021-06-02T15:26:49.495Z [info] Listen port 8001 in worker 2
+2021-06-02T15:26:49.511Z [info] Application started in worker 2
+2021-06-02T15:33:22.907Z [debug] createSandbox
+2021-06-02T15:33:22.912Z [info] Listen port 8001 in worker 2
+2021-06-02T15:33:22.927Z [info] Application started in worker 2
+2021-06-02T15:34:33.141Z [debug] createSandbox
+2021-06-02T15:34:33.146Z [info] Listen port 8001 in worker 2
+2021-06-02T15:34:33.161Z [info] Application started in worker 2
+2021-06-02T15:34:49.454Z [info] Listen port 8001 in worker 2
+2021-06-02T15:34:49.470Z [info] Application started in worker 2
+2021-06-02T15:35:24.643Z [info] Listen port 8001 in worker 2
+2021-06-02T15:35:24.670Z [debug] Start example plugin
+2021-06-02T15:35:24.673Z [debug] { set: { key: 'keyName', val: 100 } }
+2021-06-02T15:35:24.673Z [debug] { get: 'keyName', return: 100 }
+2021-06-02T15:35:24.673Z [debug] { res: 100, cache: undefined }
+2021-06-02T15:35:24.673Z [log] [domain/start] example
+2021-06-02T15:35:24.674Z [info] Application started in worker 2

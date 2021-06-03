@@ -1,0 +1,113 @@
+2021-06-02T13:34:10.241Z [debug] createSandbox
+2021-06-02T13:34:10.243Z [info] Application started in worker 4
+2021-06-02T13:37:58.948Z [debug] createSandbox
+2021-06-02T13:37:58.950Z [info] Application started in worker 4
+2021-06-02T13:38:56.909Z [debug] createSandbox
+2021-06-02T13:38:56.911Z [info] Application started in worker 4
+2021-06-02T13:40:39.786Z [debug] createSandbox
+2021-06-02T13:40:39.787Z [info] Application started in worker 4
+2021-06-02T13:41:16.426Z [debug] createSandbox
+2021-06-02T13:41:16.428Z [info] Application started in worker 4
+2021-06-02T14:00:06.317Z [debug] createSandbox
+2021-06-02T14:00:06.319Z [info] Application started in worker 4
+2021-06-02T14:02:52.950Z [debug] createSandbox
+2021-06-02T14:02:52.952Z [info] Application started in worker 4
+2021-06-02T14:10:23.298Z [debug] createSandbox
+2021-06-02T14:10:23.299Z [info] Application started in worker 4
+2021-06-02T14:11:13.510Z [debug] createSandbox
+2021-06-02T14:11:13.512Z [info] Application started in worker 4
+2021-06-02T14:11:34.515Z [debug] createSandbox
+2021-06-02T14:11:34.516Z [info] Application started in worker 4
+2021-06-02T14:13:13.414Z [debug] createSandbox
+2021-06-02T14:13:13.415Z [info] Application started in worker 4
+2021-06-02T14:14:05.595Z [debug] createSandbox
+2021-06-02T14:14:05.596Z [info] Application started in worker 4
+2021-06-02T14:14:37.054Z [debug] createSandbox
+2021-06-02T14:14:37.056Z [info] Application started in worker 4
+2021-06-02T14:17:48.061Z [debug] createSandbox
+2021-06-02T14:17:48.063Z [info] Application started in worker 4
+2021-06-02T14:24:02.279Z [debug] createSandbox
+2021-06-02T14:24:02.284Z [info] Application started in worker 4
+2021-06-02T14:24:53.904Z [debug] createSandbox
+2021-06-02T14:24:53.911Z [info] Application started in worker 4
+2021-06-02T14:28:56.875Z [debug] createSandbox
+2021-06-02T14:28:56.885Z [info] Application started in worker 4
+2021-06-02T14:31:15.973Z [debug] createSandbox
+2021-06-02T14:31:15.983Z [info] Application started in worker 4
+2021-06-02T14:32:41.112Z [debug] createSandbox
+2021-06-02T14:32:41.122Z [info] Application started in worker 4
+2021-06-02T14:34:59.656Z [debug] createSandbox
+2021-06-02T14:34:59.668Z [info] Application started in worker 4
+2021-06-02T14:35:45.014Z [debug] createSandbox
+2021-06-02T14:35:45.022Z [info] Application started in worker 4
+2021-06-02T14:36:42.048Z [debug] createSandbox
+2021-06-02T14:36:42.057Z [info] Application started in worker 4
+2021-06-02T14:38:24.596Z [debug] createSandbox
+2021-06-02T14:38:24.608Z [info] Application started in worker 4
+2021-06-02T14:42:18.082Z [debug] createSandbox
+2021-06-02T14:42:18.092Z [info] Application started in worker 4
+2021-06-02T14:43:01.363Z [debug] createSandbox
+2021-06-02T14:43:01.373Z [info] Application started in worker 4
+2021-06-02T14:43:37.967Z [debug] createSandbox
+2021-06-02T14:43:37.975Z [info] Application started in worker 4
+2021-06-02T14:44:23.097Z [debug] createSandbox
+2021-06-02T14:44:23.108Z [info] Application started in worker 4
+2021-06-02T14:44:48.205Z [debug] createSandbox
+2021-06-02T14:44:48.214Z [info] Application started in worker 4
+2021-06-02T14:45:31.651Z [debug] createSandbox
+2021-06-02T14:45:31.659Z [info] Application started in worker 4
+2021-06-02T14:47:14.583Z [debug] createSandbox
+2021-06-02T14:47:14.592Z [info] Application started in worker 4
+2021-06-02T14:51:38.396Z [debug] createSandbox
+2021-06-02T14:51:38.406Z [info] Application started in worker 4
+2021-06-02T14:54:22.548Z [debug] createSandbox
+2021-06-02T14:54:22.560Z [info] Application started in worker 4
+2021-06-02T14:55:18.570Z [debug] createSandbox
+2021-06-02T14:55:18.579Z [info] Application started in worker 4
+2021-06-02T14:57:02.566Z [debug] createSandbox
+2021-06-02T14:57:02.580Z [info] Application started in worker 4
+2021-06-02T15:06:24.350Z [debug] createSandbox
+2021-06-02T15:06:24.360Z [info] Application started in worker 4
+2021-06-02T15:07:35.701Z [debug] createSandbox
+2021-06-02T15:07:35.711Z [info] Application started in worker 4
+2021-06-02T15:09:04.118Z [debug] createSandbox
+2021-06-02T15:09:04.128Z [info] Application started in worker 4
+2021-06-02T15:09:18.936Z [debug] createSandbox
+2021-06-02T15:09:18.955Z [error] ReferenceError: crud is not defined;  \application\api\example\index.js:1:12;  new Procedure (\lib\procedure.js:11:17);  Interfaces.change (\lib\interfaces.js:75:18);  async Interfaces.load (\lib\cache.js:19:14);  async Interfaces.load (\lib\cache.js:18:33)
+2021-06-02T15:09:18.958Z [info] Application started in worker 4
+2021-06-02T15:09:19.973Z [error] ReferenceError: crud is not defined;  \application\api\example\index.js:1:12;  new Procedure (\lib\procedure.js:11:17);  Interfaces.change (\lib\interfaces.js:75:18)
+2021-06-02T15:09:35.720Z [error] \application\api\example\index.js:2;;;;SyntaxError: Unexpected end of input;  new Script (vm.js:100:7);  new Script (\lib\utils\vm.js:41:19);  Interfaces.createScript (\lib\interfaces.js:31:27);  async Interfaces.change (\lib\interfaces.js:73:20)
+2021-06-02T15:09:42.785Z [error] \application\api\example.2\index.js:35;;;;SyntaxError: Unexpected end of input;  new Script (vm.js:100:7);  new Script (\lib\utils\vm.js:41:19);  Interfaces.createScript (\lib\interfaces.js:31:27);  async Interfaces.change (\lib\interfaces.js:73:20)
+2021-06-02T15:09:48.928Z [debug] createSandbox
+2021-06-02T15:09:48.945Z [error] \application\api\example\index.js:2;;;;SyntaxError: Unexpected end of input;  new Script (vm.js:100:7);  new Script (\lib\utils\vm.js:41:19);  Interfaces.createScript (\lib\interfaces.js:31:27);  async Interfaces.change (\lib\interfaces.js:73:20);  async Interfaces.load (\lib\cache.js:19:14);  async Interfaces.load (\lib\cache.js:18:33)
+2021-06-02T15:09:48.947Z [error] \application\api\example.2\index.js:35;;;;SyntaxError: Unexpected end of input;  new Script (vm.js:100:7);  new Script (\lib\utils\vm.js:41:19);  Interfaces.createScript (\lib\interfaces.js:31:27);  async Interfaces.change (\lib\interfaces.js:73:20);  async Interfaces.load (\lib\cache.js:19:14);  async Interfaces.load (\lib\cache.js:18:33)
+2021-06-02T15:09:48.948Z [info] Application started in worker 4
+2021-06-02T15:11:43.351Z [debug] createSandbox
+2021-06-02T15:11:43.365Z [info] Application started in worker 4
+2021-06-02T15:13:01.525Z [debug] createSandbox
+2021-06-02T15:13:01.543Z [info] Application started in worker 4
+2021-06-02T15:14:23.224Z [debug] createSandbox
+2021-06-02T15:14:23.239Z [info] Application started in worker 4
+2021-06-02T15:15:59.671Z [debug] createSandbox
+2021-06-02T15:15:59.791Z [info] Application started in worker 4
+2021-06-02T15:23:01.313Z [debug] createSandbox
+2021-06-02T15:23:01.326Z [info] Application started in worker 4
+2021-06-02T15:23:22.350Z [debug] createSandbox
+2021-06-02T15:23:22.364Z [info] Application started in worker 4
+2021-06-02T15:23:55.313Z [debug] createSandbox
+2021-06-02T15:23:55.326Z [info] Application started in worker 4
+2021-06-02T15:25:01.593Z [debug] createSandbox
+2021-06-02T15:25:01.612Z [info] Application started in worker 4
+2021-06-02T15:26:49.487Z [debug] createSandbox
+2021-06-02T15:26:49.507Z [info] Application started in worker 4
+2021-06-02T15:33:22.916Z [debug] createSandbox
+2021-06-02T15:33:22.931Z [info] Application started in worker 4
+2021-06-02T15:34:33.139Z [debug] createSandbox
+2021-06-02T15:34:33.158Z [info] Application started in worker 4
+2021-06-02T15:34:49.468Z [info] Application started in worker 4
+2021-06-02T15:35:24.668Z [debug] Start example plugin
+2021-06-02T15:35:24.672Z [debug] { set: { key: 'keyName', val: 100 } }
+2021-06-02T15:35:24.672Z [debug] { get: 'keyName', return: 100 }
+2021-06-02T15:35:24.672Z [debug] { res: 100, cache: undefined }
+2021-06-02T15:35:24.672Z [log] [domain/start] example
+2021-06-02T15:35:24.673Z [info] Application started in worker 4

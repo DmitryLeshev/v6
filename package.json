@@ -1,0 +1,16 @@
+{
+  "name": "v6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Dmitry",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.6.0",
+    "ws": "^7.4.6"
+  }
+}

@@ -1,0 +1,142 @@
+2021-06-01T08:52:18.409Z [debug] createSandbox
+2021-06-01T08:52:18.411Z [info] Application started in worker 1
+2021-06-01T08:52:18.413Z [info] Listen port 8000 in worker 1
+2021-06-01T08:53:16.070Z [debug] createSandbox
+2021-06-01T08:53:16.072Z [info] Application started in worker 1
+2021-06-01T08:53:16.075Z [info] Listen port 8000 in worker 1
+2021-06-01T08:55:37.832Z [debug] createSandbox
+2021-06-01T08:55:37.834Z [info] Application started in worker 1
+2021-06-01T08:55:37.836Z [info] Listen port 8000 in worker 1
+2021-06-01T08:55:57.827Z [log] listener /favicon.ico
+2021-06-01T08:56:37.074Z [log] listener /favicon.ico
+2021-06-01T08:56:43.265Z [log] listener /favicon.ico
+2021-06-01T08:56:44.634Z [log] listener /favicon.ico
+2021-06-01T08:56:54.193Z [log] listener /favicon.ico
+2021-06-01T08:56:55.756Z [log] listener /favicon.ico
+2021-06-01T08:57:02.998Z [log] listener /favicon.ico
+2021-06-01T08:57:22.951Z [log] listener /
+2021-06-01T08:57:23.318Z [log] listener /
+2021-06-01T08:57:23.366Z [log] listener /favicon.ico
+2021-06-01T08:57:26.092Z [log] listener /favicon.ico
+2021-06-01T08:57:26.379Z [log] listener /
+2021-06-01T08:57:52.574Z [log] listener /
+2021-06-01T08:57:52.623Z [log] listener /favicon.ico
+2021-06-01T08:57:57.365Z [log] listener /favicon.ico
+2021-06-01T08:57:57.651Z [log] listener /
+2021-06-01T08:59:57.527Z [log] listener /favicon.ico
+2021-06-01T08:59:57.781Z [log] listener /
+2021-06-01T09:03:00.576Z [log] listener /favicon.ico
+2021-06-01T09:03:00.831Z [log] listener /
+2021-06-01T09:03:25.656Z [log] listener /
+2021-06-01T09:03:25.671Z [log] listener /favicon.ico
+2021-06-01T09:03:30.745Z [debug] createSandbox
+2021-06-01T09:03:30.746Z [info] Application started in worker 1
+2021-06-01T09:03:30.748Z [info] Listen port 8000 in worker 1
+2021-06-01T09:03:36.470Z [log] listener /favicon.ico
+2021-06-01T09:03:36.723Z [log] listener /
+2021-06-01T09:03:43.029Z [log] listener /
+2021-06-01T09:03:43.046Z [log] listener /favicon.ico
+2021-06-01T09:03:59.263Z [log] listener /favicon.ico
+2021-06-01T09:03:59.551Z [log] listener /
+2021-06-01T09:04:14.125Z [log] listener /
+2021-06-01T09:04:54.691Z [log] listener /
+2021-06-01T09:05:56.401Z [log] listener /
+2021-06-01T09:08:02.268Z [log] listener /
+2021-06-01T09:08:02.638Z [log] listener /
+2021-06-01T09:08:06.864Z [log] listener /
+2021-06-01T09:08:13.209Z [log] listener /
+2021-06-01T09:08:23.457Z [log] listener /favicon.ico
+2021-06-01T09:08:23.751Z [log] listener /
+2021-06-01T09:08:23.994Z [log] listener /favicon.ico
+2021-06-01T09:08:24.007Z [log] listener /
+2021-06-01T09:08:31.219Z [log] listener /
+2021-06-01T09:08:31.227Z [log] listener /favicon.ico
+2021-06-01T09:08:34.122Z [log] listener /favicon.ico
+2021-06-01T09:08:34.417Z [log] listener /
+2021-06-01T09:08:51.436Z [log] listener /favicon.ico
+2021-06-01T09:09:34.004Z [log] listener /favicon.ico
+2021-06-01T09:09:38.290Z [log] listener /favicon.ico
+2021-06-01T09:09:45.886Z [log] listener /favicon.ico
+2021-06-01T09:09:49.881Z [log] listener /api
+2021-06-01T09:09:49.984Z [log] listener /api
+2021-06-01T09:09:57.546Z [log] listener /api
+2021-06-01T09:09:57.595Z [log] listener /favicon.ico
+2021-06-01T09:10:36.566Z [log] listener /api
+2021-06-01T09:10:36.567Z [log] listener /favicon.ico
+2021-06-01T09:10:36.666Z [log] listener /api
+2021-06-01T09:10:36.770Z [log] listener /favicon.ico
+2021-06-01T09:11:10.612Z [log] listener /api
+2021-06-01T09:11:10.974Z [log] listener /api
+2021-06-01T09:11:15.446Z [log] listener /api
+2021-06-01T09:11:15.974Z [log] listener /api
+2021-06-01T09:11:16.391Z [log] listener /api
+2021-06-01T09:11:16.512Z [log] listener /favicon.ico
+2021-06-01T09:11:34.506Z [log] listener /api
+2021-06-01T09:11:34.989Z [log] listener /api
+2021-06-01T09:11:36.133Z [log] listener /api
+2021-06-01T09:11:36.277Z [log] listener /favicon.ico
+2021-06-01T09:12:01.539Z [log] listener /api
+2021-06-01T09:12:01.987Z [log] listener /api
+2021-06-01T09:13:23.127Z [log] listener /api
+2021-06-01T09:13:23.970Z [log] listener /api
+2021-06-01T09:13:25.854Z [log] listener /api
+2021-06-01T09:13:25.865Z [log] listener /favicon.ico
+2021-06-01T09:13:57.217Z [log] listener /favicon.ico
+2021-06-01T09:14:09.339Z [log] listener /api
+2021-06-01T09:14:09.936Z [log] listener /api
+2021-06-01T09:14:11.248Z [log] listener /api
+2021-06-01T09:14:11.447Z [log] listener /favicon.ico
+2021-06-01T09:14:13.029Z [log] listener /api
+2021-06-01T09:14:13.034Z [log] listener /favicon.ico
+2021-06-01T09:14:17.142Z [log] listener /api
+2021-06-01T09:14:17.259Z [log] listener /favicon.ico
+2021-06-01T09:15:25.125Z [log] listener /api
+2021-06-01T09:15:25.973Z [log] listener /api
+2021-06-01T09:15:27.890Z [log] listener /favicon.ico
+2021-06-01T09:15:36.979Z [log] listener /api
+2021-06-01T09:15:38.436Z [log] listener /favicon.ico
+2021-06-01T09:16:13.262Z [log] listener /api
+2021-06-01T09:16:13.959Z [log] listener /api
+2021-06-01T09:16:17.577Z [log] listener /api
+2021-06-01T09:16:17.584Z [log] listener /favicon.ico
+2021-06-01T09:16:19.908Z [log] listener /api
+2021-06-01T09:16:20.039Z [log] listener /favicon.ico
+2021-06-01T09:16:27.923Z [log] listener /api
+2021-06-01T09:16:27.936Z [log] listener /favicon.ico
+2021-06-01T09:16:32.654Z [log] listener /api
+2021-06-01T09:16:34.398Z [log] listener /api
+2021-06-01T09:16:34.530Z [log] listener /favicon.ico
+2021-06-01T09:16:53.259Z [log] listener /api
+2021-06-01T09:20:43.909Z [log] listener /api
+2021-06-01T09:20:45.548Z [log] listener /api
+2021-06-01T09:20:45.596Z [log] listener /favicon.ico
+2021-06-01T09:21:06.697Z [log] listener /favicon.ico
+2021-06-01T09:23:42.617Z [log] listener /favicon.ico
+2021-06-01T09:24:23.572Z [log] listener /favicon.ico
+2021-06-01T09:25:05.601Z [debug] createSandbox
+2021-06-01T09:25:05.603Z [info] Application started in worker 1
+2021-06-01T09:25:05.605Z [info] Listen port 8000 in worker 1
+2021-06-01T09:25:10.207Z [log] listener /favicon.ico
+2021-06-01T09:25:10.479Z [log] connection ws
+2021-06-01T09:26:58.209Z [log] connection ws
+2021-06-01T09:27:02.864Z [debug] createSandbox
+2021-06-01T09:27:02.866Z [info] Application started in worker 1
+2021-06-01T09:27:02.869Z [info] Listen port 8000 in worker 1
+2021-06-01T09:27:05.307Z [log] listener /favicon.ico
+2021-06-01T09:27:05.549Z [log] connection ws
+2021-06-01T09:27:05.553Z [debug] { data: 'Меня зовут Джон' }
+2021-06-01T09:29:56.118Z [debug] createSandbox
+2021-06-01T09:29:56.119Z [info] Application started in worker 1
+2021-06-01T09:29:56.121Z [info] Listen port 8000 in worker 1
+2021-06-01T09:29:58.637Z [log] listener /favicon.ico
+2021-06-01T09:29:58.912Z [log] connection ws
+2021-06-01T09:29:58.915Z [debug] { data: 'Меня зовут Джон' }
+2021-06-01T12:40:10.728Z [debug] createSandbox
+2021-06-01T12:40:10.730Z [info] Application started in worker 1
+2021-06-01T12:40:10.732Z [info] Listen port 8000 in worker 1
+2021-06-01T12:40:27.458Z [log] listener /favicon.ico
+2021-06-01T12:40:27.721Z [log] connection ws
+2021-06-01T12:40:27.724Z [debug] { data: 'Меня зовут Джон' }
+2021-06-01T14:44:31.780Z [log] listener /favicon.ico
+2021-06-01T14:44:32.057Z [log] connection ws
+2021-06-01T14:44:32.059Z [debug] { data: 'Меня зовут Джон' }
